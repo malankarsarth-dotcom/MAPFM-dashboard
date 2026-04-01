@@ -478,5 +478,5 @@ This project is submitted for academic evaluation at MAIB under the course *Reas
 ---
 
 <div align="center">
-<strong>MAPFM · MAIB Group Project 4 · DXB Section A · 2025</strong>
+<strong>MAPFM · MAIB Group Project 4 · DXB Section A · 2026</strong>
 </div>
